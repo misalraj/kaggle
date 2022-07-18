@@ -1,5 +1,4 @@
-# kaggle
-My kaggle learning journey
+## My kaggle learning journey
 
 
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/misalraj/competition/light)](https://www.kaggle.com/misalraj)
